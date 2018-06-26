@@ -1,1 +1,1 @@
-file_text: This is the master environment
+file_text: This is the base environment
