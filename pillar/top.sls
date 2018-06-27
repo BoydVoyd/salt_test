@@ -1,3 +1,0 @@
-{{saltenv}}:
-  '*':
-    - add_file
